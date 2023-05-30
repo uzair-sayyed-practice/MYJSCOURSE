@@ -2,7 +2,7 @@
 
 
 
-let firstName = "arshit";
+let firstName = "harshit";
 let age = 17;
 
 // if(firstName[0]=="H"){

@@ -1,7 +1,7 @@
 // typeof operator 
 
 // data types (primitive data types)
-// string "harhit"
+// string "harshit"
 // number 2, 4, 5.6 
 // booleans 
 // undefined

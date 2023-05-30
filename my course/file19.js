@@ -29,7 +29,7 @@
 
 
 
-// same thing if nested if else 
+// same thing in if else 
 
 let day = 7;
 

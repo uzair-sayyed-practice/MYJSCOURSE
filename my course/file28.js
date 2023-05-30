@@ -37,4 +37,4 @@ console.log("arr2 is ", arr2);
 
 // so like primitive data types where only the actual one changing after making any changes
 
-// But here in array it we changing arr1 only but aar2 is also getting updated from arr1 value this is bcoz the address for both is same 
+// But here in array if we changing arr1 only but aar2 is also getting updated from arr1 value this is bcoz the address for both is same 
